@@ -18,9 +18,13 @@ TensorFlow
 Scikit-learn
 
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Google Colab
 
 ## Setup and Usage Instructions
@@ -34,10 +38,15 @@ Google Colab
 ## Dependencies
 
 tensorflow
+
 scikit-learn
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
 
 ## Solution Approach
