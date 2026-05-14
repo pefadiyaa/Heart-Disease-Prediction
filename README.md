@@ -12,8 +12,11 @@ https://www.kaggle.com/johnsmith88/heart-disease-dataset
 ## Technologies Used
 
 Python
+
 TensorFlow
+
 Scikit-learn
+
 Pandas
 NumPy
 Matplotlib
