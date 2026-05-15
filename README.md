@@ -7,6 +7,7 @@ Heart disease is one of the major health problems affecting people worldwide. Ea
 ## DataSet
 
 The dataset contains patient medical details used for heart disease prediction. Important features include age, blood pressure, cholesterol level, and chest pain type. It is commonly used for machine learning classification and prediction analysis.
+
 https://www.kaggle.com/johnsmith88/heart-disease-dataset
 
 ## Technologies Used
